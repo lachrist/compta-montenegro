@@ -67,7 +67,8 @@ const transfers1 = [
   ["2017-12-14", "City-Facade", "corniche",      " -814.08"],
   ["2018-01-09", "Belfius",     "frais-compte",  "   -5.89"],
   ["2018-01-04", "Ethias",      "assurance",     " -825.89"],
-  ["2018-01-28", "Laurent",     null,            "  510.00"]
+  ["2018-01-28", "Laurent",     null,            "  510.00"],
+  ["2018-01-30", "Electrabel",  "cage-escalier", " -504.69"]
 ].map(format);
 
 ((() => {
